@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Whinnery;Jake;;;
+FN:Jake Whinnery
+ORG:Wake Energy
+TITLE:Co-Founder
+TEL;TYPE=CELL:+19256401576
+EMAIL;TYPE=INTERNET,WORK:jake@wakeenergy.com
+URL;TYPE=WORK:https://wakeenergy.com
+END:VCARD
